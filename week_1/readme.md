@@ -27,7 +27,7 @@ if __name__ == '__main__':
 	main() #Calling Main Function
 
 ```
-###Output:
+Output:
 
 ## Assignment #2
 
@@ -72,7 +72,7 @@ print("")
 print(f"Class Average = {avg/5}" )
 
 ```
-###Output:
+Output:
 
 ## Assignment #3
 
@@ -93,7 +93,7 @@ for i in range(0,len(x),1): #Print 1 Line a time with 1 sec delay
     time.sleep(1)
 
 ```
-###Output:
+Output:
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
