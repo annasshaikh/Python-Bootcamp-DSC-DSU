@@ -29,6 +29,8 @@ if __name__ == '__main__':
 ```
 Output:
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/3W38ZkG/Output-Assissgment-1.png" alt="Output-Assissgment-1" border="0"></a>
+
 ## Assignment #2
 
 Questain: Create a program to take as input 5 student records in the following format:
@@ -74,6 +76,8 @@ print(f"Class Average = {avg/5}" )
 ```
 Output:
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gDDjYhy/Output-Assissgment-2.png" alt="Output-Assissgment-2" border="0"></a>
+
 ## Assignment #3
 
 Questain: A function that will print lyrics of given song with 1 second delay between each line.
@@ -94,6 +98,8 @@ for i in range(0,len(x),1): #Print 1 Line a time with 1 sec delay
 
 ```
 Output:
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Wz5C3LL/Output-Assissgment-3.png" alt="Output-Assissgment-3" border="0"></a>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
