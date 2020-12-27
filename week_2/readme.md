@@ -2,6 +2,10 @@
 
 Assignments For DSC-DSU Python Boot Camp 
 
+## Assigment 2
+
+Scrapped the Facebook to Get Its Page Like.
+
 ## Assignment 4
 #### Questains: Build a school scraper that'll scrap 50 schools' info and generate a CSV.
 
